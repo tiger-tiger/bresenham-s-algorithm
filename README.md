@@ -1,2 +1,2 @@
 # bresenham-algorithm
-This is the implementation of draw-line Brasenham's algorithm using QT Framework and OpenGL
+This is the simple C++ implementation of draw-line Brasenham's algorithm using QT Framework and OpenGL.
